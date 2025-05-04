@@ -1,18 +1,18 @@
 # For Atom Feed
-domain: services.github.com
-author: GitHub, Inc.
-email: services@github.com
+domain: doda-agency.github.io
+author: DoDa Agency
+email: outlook_71479E104CA73AE6@outlook.com
 
 # Site Settings
 locale: "en-US"
 # Keep original, do not replace
 title: "GitHub Cheatsheets"
 title_separator: "-"
-name: "GitHub, Inc."
+name: "DoDa Agency"
 description:
-url: "https://training.github.com"
+url: "https://doda-agency.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-gh_repo: github/training-kit
+gh_repo: doda-agency/github-training-kit
 repository: github/training-kit
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: true # true, false (default)
@@ -21,7 +21,7 @@ words_per_minute: 200
 analytics:
   provider: google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: UA-3769691-2
+    tracking_id: UA-XXXXXXX-X
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -86,4 +86,4 @@ defaults:
     values:
       lang: "en"
       redirect_to:
-        - https://training.github.com
+        - https://doda-agency.github.io/github-training-kit
